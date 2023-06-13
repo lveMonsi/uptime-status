@@ -28,7 +28,7 @@ window.Config = {
       url: 'https://github.com/lveMonsi'
     },
     {
-      text: 'Blog',
+      text: 'lveMonsi',
       url: 'https://lvems.top/'
     },
   ],
