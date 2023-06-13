@@ -1,18 +1,20 @@
 window.Config = {
 
   // 显示标题
-  SiteName: 'Public Status',
+  SiteName: '站点运行状况',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
   ApiKeys: [
+    'm794563857-7353c4d6ac75773fef1b9fe1',
     'm794563327-91c9e59c6562137e992c78ad',
     'm794561268-86261ea99f7d277d001c41b7',
+    'm794563913-cde69eeeb7f51271793b94be',
     'm794561274-7fc72c7671560ef4fdd6bc42',
   ],
 
   // 日志天数
-  CountDays: 90,
+  CountDays: 60,
 
   // 是否显示检测站点的链接
   ShowLink: true,
@@ -29,7 +31,7 @@ window.Config = {
     },
     {
       text: 'lveMonsi',
-      url: 'https://lvems.top/'
+      url: 'https://www.lvems.top/'
     },
   ],
 };
